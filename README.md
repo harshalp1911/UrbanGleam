@@ -1,4 +1,4 @@
-# Hatey-Bazarey-MERN
+# UrbanGleam - MERN STACK 
 Full-Stack Ecommerce with Admin Dashboard & stripe Payment Gateway.
 
 ## Demo
